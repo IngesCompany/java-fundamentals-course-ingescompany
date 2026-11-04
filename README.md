@@ -124,12 +124,18 @@ https://github.com/IngesCompany/java-fundamentals-course-ingescompany.git
 
 **Curso:** 1ASI0729 - Desarrollo de Aplicaciones Open Source
 
-**NRC:** [Número de NRC]
+**NRC:** 7742
 
-**Nombre del equipo:** [Nombre de tu equipo]
+**Nombre del equipo:** IngesCompany
 
-**Líder del equipo:** [Nombres y Apellidos]
+**Líder del equipo:** Rodolfo Martin Zavaleta Gutierrez
 
-**Integrantes del equipo:** [Nombres y Apellidos]
+**Integrantes del equipo:**
+- Angulo Ramirez, Marcelo Martin
+- Cobades Zamora, Yhoshua Hebert
+- Rojas Ambicho, Nestor Daniel
+- Flores Martinez, Ricardo Andres
+- Torres Juárez, Alisee Muriel
+- Zavaleta Gutierrez, Rodolfo Martin
 
 **Fecha de entrega:** [Fecha]
