@@ -18,40 +18,42 @@ _(Contenido para los instructores)_
 
 ## 2. Guion del video (8 minutos)
 
-> **(0:00 - 0:30) Introducción**  
-> Los programas necesitan recordar cosas: un puntaje, un nombre, una edad. Para eso están las variables. Hoy vas a crear las tuyas y a hacer cálculos con ellas.
+Los tiempos son los del audio (unos 6:46). Con las tarjetas de pausa, los Run y las transiciones de la edición, el video llega a unos 8 minutos. El guion detallado para grabar, con lo que se muestra en cada momento, está en [grabacion/leccion-02.md](grabacion/leccion-02.md).
+
+> **(0:00 - 0:28) Introducción**  
+> ¡Hola de nuevo! Bienvenido a la lección dos. Piensa en tu juego favorito: recuerda tu puntaje, tus vidas y tu nombre de jugador. Para recordar cosas, los programas usan variables. Hoy vas a crear las tuyas y a hacer cuentas con ellas. Abre el enlace de la descripción, ¡y vamos!
 >
-> **(0:30 - 1:40) Partes de una variable**  
-> Una variable es un espacio de memoria con nombre, donde se guarda un dato. Primero declaras su tipo: int, que es un número entero. Luego le pones un nombre: vidas. Y con el signo igual le asignas un valor: tres. Ojo: en programación, el igual es el operador de asignación: no significa “es igual a”. Y no olvides el punto y coma.
+> **(0:28 - 1:07) Partes de una variable**  
+> Una variable es como una caja con etiqueta donde guardas un dato. Mira este ejemplo. Primero va el tipo: int, que quiere decir número entero. Después, el nombre de la caja: vidas. Y con el signo igual guardamos un valor adentro: tres. Atención con esto: en programación, el igual no significa «es igual a». Significa «guarda este valor aquí», y se llama asignación. Y como siempre, terminamos con punto y coma.
 >
-> **(1:40 - 2:40) Tipos de datos**  
-> Estos son los tipos que más vas a usar. int para números enteros, como 3. double para números con decimales, como 4.5; en Java el decimal se escribe con punto. boolean solo puede ser true o false, verdadero o falso. Y String guarda texto entre comillas. Fíjate que String empieza con mayúscula.
+> **(1:07 - 2:01) Tipos de datos**  
+> Estos son los cuatro tipos que más vas a usar. int, para números enteros, como tres. double, para números con decimales, como cuatro punto cinco. En Java, el decimal se escribe con punto, no con coma. boolean, que solo puede ser true o false, verdadero o falso, como un interruptor de luz. Y String, para texto, siempre entre comillas. Fíjate que String empieza con mayúscula. ¿Y por qué hay tipos? Para que Java sepa qué puede hacer con cada dato: puedes sumar dos números, pero no puedes multiplicar un nombre. El tipo evita esas confusiones.
 >
-> **(2:40 - 4:10) Las variables en el código**  
-> Vamos a describir a una mascota. String nombre igual Miso, int edad igual 3, double peso igual 4.5, y boolean esJuguetona igual true. Para mostrarlas uso println y el signo más, que une el texto con el valor de la variable: a eso se le llama concatenar. Run. ¡Ahí están los datos de Miso!
+> **(2:01 - 3:46) Las variables en el código**  
+> ¡Al editor! Vamos a describir a una mascota inventada: Miso. Escribe conmigo, y pausa cuando lo necesites. Debajo del comentario uno: String nombre igual Miso, entre comillas. Luego, int edad igual tres. Y double peso igual cuatro punto cinco. Y la última: boolean esJuguetona igual true. Ahora, debajo del comentario dos, las mostramos. Escribo println, entre comillas mi mascota se llama, y después un signo más y la variable nombre. Ese más pega el texto con el valor de la variable, y se llama concatenar. Hago lo mismo con la edad, el peso y si es juguetona. Run… ¡ahí están todos los datos de Miso! Un dato: los nombres de las variables empiezan con minúscula y, si tienen varias palabras, cada palabra nueva va con mayúscula, como esJuguetona.
 >
-> **(4:10 - 5:10) Operadores aritméticos**  
-> Con los números puedes hacer cuentas usando operadores: más, menos, por y dividido. Hay dos que sorprenden. Si divides dos enteros, Java da solo el cociente entero: 17 entre 5 da 3. Y el signo de porcentaje es el operador módulo, que da el residuo: 17 módulo 5 da 2.
+> **(3:46 - 4:24) Operadores aritméticos**  
+> Con los números también puedes hacer cuentas: más, menos, por con asterisco, y dividido con la barra. Pero hay dos que sorprenden. Si divides dos números enteros, Java solo te da la parte entera: diecisiete entre cinco da tres, no tres punto cuatro. Y este signo, el de porcentaje, se llama módulo: te da lo que sobra de la división. Diecisiete módulo cinco da dos, porque sobran dos.
 >
-> **(5:10 - 6:40) Cálculos en el código**  
-> Probemos. El próximo año, Miso tendrá edad más uno; lo escribo entre paréntesis para que Java haga la suma antes de unir el texto. Ahora un problema: tengo 17 caramelos y 5 amigos. 17 dividido 5: a cada uno le tocan 3. Y 17 módulo 5: sobran 2. Run, y Java hace las cuentas por nosotros.
+> **(4:24 - 5:43) Cálculos en el código**  
+> Probemos en el editor. Primero, ¿cuántos años tendrá Miso el próximo año? Debajo de la línea de la edad escribo un println con edad más uno, y lo pongo entre paréntesis. Los paréntesis hacen que Java sume primero y después pegue el resultado al texto. Ahora un problema de la vida real. Debajo del comentario tres: tengo diecisiete caramelos y cinco amigos. Diecisiete dividido cinco: a cada uno le tocan tres. Y diecisiete módulo cinco: sobran dos. Run… ¡y Java hace las cuentas por nosotros! Miso tendrá cuatro años, a cada amigo le tocan tres caramelos y sobran dos. Esos dos me los quedo yo.
 >
-> **(6:40 - 7:20) Pausa y prueba**  
-> Tu turno. Pausa el video e inventa tu propia mascota: dale nombre, edad, peso y di si es juguetona. Muéstrala con println y después divide un número entre otro y calcula el residuo con módulo. Si sale un error, revisa el tipo y el punto y coma. Cuando termines, sigue con el video.
+> **(5:43 - 6:15) Pausa y prueba**  
+> ¡Te toca! Pausa el video e inventa tu propia mascota: ponle nombre, edad y peso, y di si es juguetona. Muéstrala con println. Y después reparte algo: divide un número entre otro y calcula lo que sobra con módulo. Si sale un error, revisa el tipo de la variable y el punto y coma. Cuando termines, dale play.
 >
-> **(7:20 - 8:00) Resumen**  
-> Hoy aprendiste a crear variables, a elegir su tipo y a hacer cálculos con operadores, incluido el módulo. En la próxima lección tu programa va a tomar decisiones y a repetir tareas.
+> **(6:15 - 6:46) Resumen**  
+> ¡Muy bien! Hoy aprendiste a crear variables, a elegir su tipo y a hacer cuentas con operadores, incluido el módulo. Si algo no te salió, compara tu programa con el código terminado del enlace de la descripción. En la próxima lección tu programa va a tomar decisiones y a repetir tareas él solito. ¡Nos vemos ahí!
 
 ## 3. Sugerencias multimedia
 
-- **Introducción (0:00), Lámina 8:** Portada de la lección 2. Texto en pantalla: «Lección 2 · Variables y tipos de datos»
-- **Partes de una variable (0:30), Lámina 9:** Lámina con `int vidas = 3;` en grande y tres etiquetas: tipo, nombre y valor. Texto en pantalla: «Una variable tiene tipo, nombre y valor».
-- **Tipos de datos (1:40), Lámina 10:** Lámina con los cuatro tipos: `int`, `double`, `boolean` y `String`. Texto en pantalla: «`int` 3 · `double` 4.5 · `boolean` true · `String` "Miso"».
-- **Las variables en el código (2:40), editor OnlineGDB, sin lámina:** Se escriben las cuatro variables de Miso (`nombre`, `edad`, `peso`, `esJuguetona`) y los `println` que las muestran con `+`. Se pulsa Run. Anotación: subrayar el `+` que une el texto con la variable.
-- **Operadores aritméticos (4:10), Lámina 11:** Lámina de operadores: `+`, `-`, `*`, `/` y `%` con un ejemplo cada uno. Texto en pantalla: «`17 / 5` = 3 · `17 % 5` = 2». Anotación: resaltar `/` y `%`.
-- **Cálculos en el código (5:10), editor OnlineGDB, sin lámina:** Se agrega `(edad + 1)` en un `println`, y después el reparto de caramelos con `/` y `%`. Se ejecuta. Texto en pantalla: «Usa paréntesis para calcular primero».
-- **Pausa y prueba (6:40), Lámina 12:** Tarjeta de pausa de 5 segundos con cuenta regresiva. Texto en pantalla: «Pausa el video y prueba» · «Tómate el tiempo que necesites»: «Crea las variables de tu mascota», «Muéstralas con `println`», «Divide con `/` y halla el residuo con `%`».
-- **Resumen (7:20), Lámina 13:** Lámina de resumen. Texto en pantalla: «Variables» · «Tipos de datos» · «Operadores».
+- **Introducción (0:00), Lámina 8:** Portada de la lección 2.
+- **Partes de una variable (0:28), Lámina 9:** Lámina con `int vidas = 3;` en grande y tres etiquetas: tipo, nombre y valor.
+- **Tipos de datos (1:07), Lámina 10:** Lámina con los cuatro tipos: `int`, `double`, `boolean` y `String`.
+- **Las variables en el código (2:01), editor OnlineGDB, sin lámina:** Se escriben las cuatro variables de Miso (`nombre`, `edad`, `peso`, `esJuguetona`) y los `println` que las muestran con `+`. Se pulsa Run. Anotación: subrayar el `+` que une el texto con la variable.
+- **Operadores aritméticos (3:46), Lámina 11:** Lámina de operadores: `+`, `-`, `*`, `/` y `%` con un ejemplo cada uno. Anotación: resaltar `/` y `%`.
+- **Cálculos en el código (4:24), editor OnlineGDB, sin lámina:** Se agrega `(edad + 1)` en un `println`, y después el reparto de caramelos con `/` y `%`. Se ejecuta. Texto en pantalla: «Usa paréntesis para calcular primero».
+- **Pausa y prueba (5:43), Lámina 12:** Tarjeta de pausa de 5 segundos con cuenta regresiva.
+- **Resumen (6:15), Lámina 13:** Lámina de resumen.
 
 ## 4. Pregunta para pensar
 
