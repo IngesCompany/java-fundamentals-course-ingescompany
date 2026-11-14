@@ -1,141 +1,256 @@
-# Fundamentos de Java para Principiantes - IngesCompany
+# Fundamentos de Java para Principiantes
 
-## Resumen del Curso
+## Resumen del curso
 
-Este curso es una introducción para estudiantes de secundaria a los fundamentos de la programación con Java, lo que conyeva Programación Orientada a Objetos (POO).
+Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluida la programación orientada a objetos. **¡No requiere descargas!** Solo abre tu navegador web.
 
-**¡No requiere descargas!** Solo abre tu navegador web (Chrome, Edge, Firefox, etc.).
+| Información | Detalle |
+|---|---|
+| **Duración total** | ~60 minutos (6 lecciones) |
+| **Público objetivo** | Estudiantes de 12 a 17 años sin experiencia en programación |
+| **Prerrequisitos** | Ninguno |
+| **Herramientas necesarias** | ¡Solo tu navegador web! (Chrome, Firefox, Safari, Edge) |
+| **Plataformas** | 100 % en línea y gratuitas |
+| **Enfoque** | Programación orientada a objetos (POO), con un proyecto final: un simulador de mascotas |
 
-**Duración total:** ~60 minutos
+### Repositorio de código fuente
 
-**Público Objetivo:** Estudiantes de 12 a 17 años sin experiencia en programación
-
-**Prerrequisitos:** Ninguno
-
-
-**📂 Repositorio de Código Fuente:**
-https://github.com/IngesCompany/java-fundamentals-course-ingescompany.git
-
----
-
-## Secuencia de la Lección
-
-### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
-
-* **Descripción:** Aprende qué es la programación y por qué escoger Java como primer lenguaje.
-* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link1)
-* **Conclusiones clave:** Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
-* **Empieza a programar:** [Abrir Replit - Hola mundo](https://replit.com/@your-starter-java)
+[https://github.com/IngesCompany/java-fundamentals-course-ingescompany](https://github.com/IngesCompany/java-fundamentals-course-ingescompany)
 
 ---
 
-### Lección 2: Variables y Tipos de Datos (8 minutos)
+## Secuencia de lecciones
 
-* **Descripción:** Aprendre a almacenar datos en Java con variables.
-* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link2)
-* **Conclusiones clave:** Usa `int`, `String`; declara como `int age = 15;`
-* **Práctica:** [Clic para programar](https://replit.com/@your-variables-java)
+### Lección 1: ¿Qué es Java y la programación? (5 minutos)
 
----
+- **Descripción**: Aprende qué es programar, por qué Java es un buen lenguaje para empezar y escribe tu primer programa.
+- **Conclusiones clave**: Un programa es un conjunto de instrucciones que la computadora ejecuta en orden; `System.out.println("¡Hola, mundo!");` imprime un mensaje en la consola.
 
-### Lección 3: Estructuras de Control: Decisiones y Bucles (10 minutos)
-
-* **Descripción:** Toma decisiones con condicionales `if-else` y repite tareas con bucles.
-* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link3)
-* **Conclusiones clave:** `if (age > 12) {}`; `for (int i = 0; i < 5; i++) {}`
-* **Práctica:** [Clic para programar](https://jdoodle.com/execute-java-online/your-id)
-
-> 👈 ¡No es necesario registrarse! Inicio inmediato.
+| Recurso | Enlace |
+|---|---|
+| **Video en YouTube** | _(enlace pendiente)_ |
+| **Práctica en línea** | _(enlace pendiente)_ |
+| **Código inicial** | [starter-files/leccion-01/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/starter-files/leccion-01/Main.java) |
+| **Código terminado** | [completed-examples/leccion-01/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/completed-examples/leccion-01/Main.java) |
+| **Guion** | [scripts/leccion-01.md](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/scripts/leccion-01.md) |
 
 ---
 
-### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
+### Lección 2: Variables y tipos de datos (8 minutos)
 
-* **Descripción:** Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases y objetos.
-* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link4)
-* **Conclusiones clave:**
+- **Descripción**: Guarda datos en variables y haz cálculos con operadores.
+- **Conclusiones clave**: `int`, `double`, `boolean` y `String`; `int vidas = 3;`; `17 / 5` da 3 y `17 % 5` da 2.
 
-    * `public static void greet() {}`
-    * Uso de `Scanner`
-    * `class Pet { String name; }`
-* **Práctica:** [Haz clic para practicar](https://onlinegdb.com/your-gdb-id)
-
-> 👈 ¡No necesitas registrarte!
-
----
-
-### Lección 5: Fundamentos de POO y Programas Sencillos (15 minutos)
-
-* **Descripción:** Construye clases con atributos y métodos, y crea un programa POO básico.
-* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link5)
-* **Conclusiones clave:** Encapsulación con getters; construcción de un simulador de mascotas.
-* **Proyecto final:** [Crea tu aplicación POO](https://replit.com/@your-final-java)
+| Recurso | Enlace |
+|---|---|
+| **Video en YouTube** | _(enlace pendiente)_ |
+| **Práctica en línea** | _(enlace pendiente)_ |
+| **Código inicial** | [starter-files/leccion-02/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/starter-files/leccion-02/Main.java) |
+| **Código terminado** | [completed-examples/leccion-02/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/completed-examples/leccion-02/Main.java) |
+| **Guion** | [scripts/leccion-02.md](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/scripts/leccion-02.md) |
 
 ---
 
-### Lección 6: Consejos y Próximos Pasos (10 minutos)
+### Lección 3: Estructuras de control: decisiones y bucles (10 minutos)
 
-* **Descripción:** Mejores prácticas, errores comunes y dónde aprender más.
-* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link6)
-* **Consejos clave:** Depurar errores, explorar la documentación oficial de Oracle Java.
-* **Compartir tu trabajo:** [Enviar creación](https://forms.gle/your-form)
+- **Descripción**: Toma decisiones con `if-else` y repite tareas con `for` y `while`.
+- **Conclusiones clave**: `if (puntos >= 100) { }`; `for (int vuelta = 1; vuelta <= 5; vuelta++) { }`; `=` asigna y `==` compara.
 
-**¡Guarda y comparte!**
-
----
-
-## Recursos Adicionales
-
-### Código fuente completo
-
-* [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname)
-
-### Todas las actividades prácticas
-
-| Número de lección | Actividad        | Empezar a programar                                             |
-| ----------------- | ---------------- | --------------------------------------------------------------- |
-| 1                 | Hola Mundo       | [Replit](https://replit.com/@your-lesson1)                      |
-| 2                 | Variables        | [Replit](https://replit.com/@your-lesson2)                      |
-| 3                 | Bucles           | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
-| 4                 | Métodos y Clases | [OnlineGDB](https://onlinegdb.com/your-lesson4)                 |
-| 5                 | Programa POO     | [Replit](https://replit.com/@your-lesson5)                      |
-
-### Cuestionario
-
-* [Prueba de conocimientos](https://forms.gle/your-quiz)
-
-### Compartir
-
-* `#JavaBeginners`
+| Recurso | Enlace |
+|---|---|
+| **Video en YouTube** | _(enlace pendiente)_ |
+| **Práctica en línea** | _(enlace pendiente)_ |
+| **Código inicial** | [starter-files/leccion-03/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/starter-files/leccion-03/Main.java) |
+| **Código terminado** | [completed-examples/leccion-03/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/completed-examples/leccion-03/Main.java) |
+| **Guion** | [scripts/leccion-03.md](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/scripts/leccion-03.md) |
 
 ---
 
-# ¡Gracias por completar el curso!
+### Lección 4: Métodos, entrada/salida e introducción a la POO (12 minutos)
+
+- **Descripción**: Crea métodos reutilizables, lee lo que escribe el usuario y crea tu primer objeto.
+- **Conclusiones clave**: `static int duplicar(int numero)`; `Scanner` con `nextLine()` y `nextInt()`; `Mascota miso = new Mascota();`.
+
+| Recurso | Enlace |
+|---|---|
+| **Video en YouTube** | _(enlace pendiente)_ |
+| **Práctica en línea** | _(enlace pendiente)_ |
+| **Código inicial** | [starter-files/leccion-04/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/starter-files/leccion-04/Main.java) |
+| **Código terminado** | [completed-examples/leccion-04/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/completed-examples/leccion-04/Main.java) |
+| **Guion** | [scripts/leccion-04.md](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/scripts/leccion-04.md) |
 
 ---
 
-## 👥 Elaboración
+### Lección 5: Fundamentos de POO y el simulador de mascotas (15 minutos)
 
-**Universidad Peruana de Ciencias Aplicadas**
+- **Descripción**: Construye una clase con constructor, atributos privados, getters y setters, guarda objetos en un arreglo y crea tu simulador de mascotas.
+- **Conclusiones clave**: Encapsulamiento con `private`, getters y setters; el primer índice de un arreglo es 0.
 
-**Carrera:** Ingeniería de Software
+| Recurso | Enlace |
+|---|---|
+| **Video en YouTube** | _(enlace pendiente)_ |
+| **Práctica en línea** | _(enlace pendiente)_ |
+| **Código inicial** | [starter-files/leccion-05/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/starter-files/leccion-05/Main.java) |
+| **Código terminado** | [completed-examples/leccion-05/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/completed-examples/leccion-05/Main.java) |
+| **Guion** | [scripts/leccion-05.md](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/scripts/leccion-05.md) |
 
-**Período:** 202610
+---
 
-**Curso:** 1ASI0729 - Desarrollo de Aplicaciones Open Source
+### Lección 6: Consejos y próximos pasos (10 minutos)
 
-**NRC:** 7742
+- **Descripción**: Los errores más comunes, cómo leer los mensajes de error, buenas prácticas y dónde seguir aprendiendo.
+- **Conclusiones clave**: Lee el número de línea del error; prueba seguido; explora la documentación oficial de Java de Oracle.
 
-**Nombre del equipo:** IngesCompany
+| Recurso | Enlace |
+|---|---|
+| **Video en YouTube** | _(enlace pendiente)_ |
+| **Práctica en línea** | _(enlace pendiente)_ |
+| **Código inicial** | [starter-files/leccion-06/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/starter-files/leccion-06/Main.java) |
+| **Código terminado** | [completed-examples/leccion-06/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/completed-examples/leccion-06/Main.java) |
+| **Guion** | [scripts/leccion-06.md](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/scripts/leccion-06.md) |
 
-**Líder del equipo:** Rodolfo Martin Zavaleta Gutierrez
+---
 
-**Integrantes del equipo:**
-- Angulo Ramirez, Marcelo Martin
-- Cobades Zamora, Yhoshua Hebert
-- Rojas Ambicho, Nestor Daniel
-- Flores Martinez, Ricardo Andres
-- Torres Juárez, Alisee Muriel
-- Zavaleta Gutierrez, Rodolfo Martin
+## Estructura del repositorio
 
-**Fecha de entrega:** [Fecha]
+```text
+java-fundamentals-course-ingescompany/
+├── starter-files/                     # Código inicial de cada lección
+│   ├── leccion-01/
+│   │   └── Main.java
+│   ├── leccion-02/
+│   │   └── Main.java
+│   ├── leccion-03/
+│   │   └── Main.java
+│   ├── leccion-04/
+│   │   └── Main.java
+│   ├── leccion-05/
+│   │   └── Main.java
+│   └── leccion-06/
+│       └── Main.java
+├── completed-examples/                # Código terminado de cada lección
+│   ├── leccion-01/
+│   │   └── Main.java
+│   ├── leccion-02/
+│   │   └── Main.java
+│   ├── leccion-03/
+│   │   └── Main.java
+│   ├── leccion-04/
+│   │   └── Main.java
+│   ├── leccion-05/
+│   │   └── Main.java
+│   └── leccion-06/
+│       └── Main.java
+├── scripts/                           # Guiones de los videos
+│   ├── leccion-01.md
+│   ├── leccion-02.md
+│   ├── leccion-03.md
+│   ├── leccion-04.md
+│   ├── leccion-05.md
+│   └── leccion-06.md
+├── slides/                            # Láminas de los videos
+│   └── java-fundamentals.pptx
+├── pandoc/                            # Exportación del plan de curso a PDF
+│   ├── course-plan.yaml
+│   └── course-plan.css
+├── .gitignore                         # Excluye build/, donde se genera el PDF
+└── README.md                          # Este archivo (plan de curso)
+```
+
+| Carpeta | Enlace |
+|---|---|
+| **starter-files/** | [starter-files/](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/tree/main/starter-files) |
+| **completed-examples/** | [completed-examples/](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/tree/main/completed-examples) |
+| **scripts/** | [scripts/](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/tree/main/scripts) |
+| **slides/** | [slides/](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/tree/main/slides) |
+| **pandoc/** | [pandoc/](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/tree/main/pandoc) |
+
+---
+
+## Instrucciones de configuración
+
+### Para estudiantes
+
+No hay nada que instalar: solo necesitas un navegador web y conexión a internet.
+
+1. **Mira el video** de la lección en YouTube.
+2. **Abre la práctica en línea**: el enlace de cada lección abre OnlineGDB con el código inicial ya precargado.
+3. **Haz tu propia copia**: pulsa *Fork this* en OnlineGDB para poder editar el código.
+4. **Ejecuta el programa** con *Run* y mira el resultado en la consola. La clase principal se llama `Main`, igual que el archivo `Main.java`: no le cambies el nombre.
+5. **Haz la práctica** de la pausa de cada lección y compara tu código con el código terminado.
+
+### Para generar el PDF del plan de curso
+
+El PDF se genera desde este `README.md` con **Pandoc** y el motor **WeasyPrint**. La configuración está en `pandoc/course-plan.yaml` y el diseño en `pandoc/course-plan.css`.
+
+1. **Instala Pandoc.** En Windows: `winget install --id JohnMacFarlane.Pandoc -e`. En macOS: `brew install pandoc`.
+2. **Instala WeasyPrint.** En Windows, descarga `weasyprint-windows-onefile.zip` de sus [releases oficiales](https://github.com/Kozea/WeasyPrint/releases) y agrega al `PATH` la carpeta que contiene `weasyprint.exe`. En macOS: `brew install weasyprint`.
+3. **Genera el PDF** desde la raíz del repositorio:
+
+```bash
+pandoc --defaults=pandoc/course-plan.yaml
+```
+
+El archivo queda en `build/upc-pre-202620-1asi0729-7742-IngesCompany-course-plan.pdf`, con el nombre que pide el enunciado. La carpeta `build/` no se sube al repositorio.
+
+---
+
+## Herramientas necesarias
+
+| Herramienta | Propósito | Acceso |
+|---|---|---|
+| **OnlineGDB** | Editor de código en línea | [onlinegdb.com](https://www.onlinegdb.com) |
+| **YouTube** | Videos de las lecciones | [youtube.com](https://www.youtube.com) |
+| **GitHub** | Repositorio de código fuente | [github.com](https://github.com) |
+| **Navegador web** | Chrome, Firefox, Safari o Edge | Solo se necesita el navegador |
+
+Compartir: **#JavaBeginners**
+
+**¡Gracias por completar el curso!**
+
+---
+
+## Resumen de la elaboración en equipo
+
+El curso «Fundamentos de Java para Principiantes» fue diseñado y producido de manera colaborativa por el equipo **IngesCompany**, conformado por seis estudiantes de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas.
+
+### Distribución de responsabilidades
+
+| Integrante | Lección a cargo | Aporte principal |
+|---|---|---|
+| Zavaleta Gutierrez, Rodolfo Martin | 1 | Líder del equipo; plan del curso en el `README.md` |
+| Angulo Ramirez, Marcelo Martin | 2 | Revisión del contenido y de la presentación |
+| Cobades Zamora, Yhoshua Hebert | 3 | Revisión técnica del código y de los guiones |
+| Rojas Ambicho, Nestor Daniel | 4 | Guiones, código de las lecciones y láminas |
+| Flores Martinez, Ricardo Andres | 5 | Publicación de la lección 5 en el repositorio |
+| Torres Juárez, Alisee Muriel | 6 | Publicación de la lección 6 y de las láminas en el repositorio |
+
+### Proceso de trabajo
+
+1. **Planeación**: se definieron los objetivos de aprendizaje, el público objetivo y las 6 lecciones a partir del enunciado.
+2. **Desarrollo de contenido**: guiones, código Java de inicio y terminado, y láminas de cada lección.
+3. **Revisión en equipo**: varias rondas de retroalimentación sobre el código, los guiones y las láminas.
+4. **Grabación**: videos con OnlineGDB, texto en pantalla, anotaciones y narración en off, subidos a YouTube como no listados.
+5. **Publicación**: cada integrante subió su lección a este repositorio.
+
+---
+
+## Elaboración
+
+Universidad Peruana de Ciencias Aplicadas  
+Carrera de Ingeniería de Software  
+Período 202620  
+1ASI0729 Desarrollo de Aplicaciones Open Source  
+NRC 7742  
+
+**Nombre del equipo**: IngesCompany  
+**Líder del equipo**: Zavaleta Gutierrez, Rodolfo Martin  
+**Integrantes del equipo**:  
+- Angulo Ramirez, Marcelo Martin  
+- Cobades Zamora, Yhoshua Hebert  
+- Flores Martinez, Ricardo Andres  
+- Rojas Ambicho, Nestor Daniel  
+- Torres Juárez, Alisee Muriel  
+- Zavaleta Gutierrez, Rodolfo Martin  
+
+**Fecha de entrega**: Noviembre, 2026
