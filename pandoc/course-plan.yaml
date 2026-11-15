@@ -1,0 +1,20 @@
+# Pandoc defaults file for the course plan.
+# Usage (from the repository root): pandoc --defaults=pandoc/course-plan.yaml
+
+# GitHub-flavored Markdown, so the PDF matches the preview on GitHub.
+from: gfm
+to: html5
+standalone: true
+embed-resources: true
+pdf-engine: weasyprint
+css:
+  - pandoc/course-plan.css
+
+input-files:
+  - README.md
+
+output-file: build/upc-pre-202620-1asi0729-7742-IngesCompany-course-plan.pdf
+
+metadata:
+  title: Fundamentos de Java para Principiantes - Plan de curso
+  lang: es-PE
