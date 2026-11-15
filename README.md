@@ -216,14 +216,14 @@ El curso «Fundamentos de Java para Principiantes» fue diseñado y producido de
 
 ### Distribución de responsabilidades
 
-| Integrante | Lección a cargo | Aporte principal |
+| Integrante | Grabación | Aporte principal |
 |---|---|---|
-| Zavaleta Gutierrez, Rodolfo Martin | 1 | Líder del equipo; plan del curso en el `README.md` |
-| Angulo Ramirez, Marcelo Martin | 2 | Revisión del contenido y de la presentación |
-| Cobades Zamora, Yhoshua Hebert | 3 | Revisión técnica del código y de los guiones |
-| Rojas Ambicho, Nestor Daniel | 4 | Guiones, código de las lecciones y láminas |
-| Flores Martinez, Ricardo Andres | 5 | Publicación de la lección 5 en el repositorio |
-| Torres Juárez, Alisee Muriel | 6 | Publicación de la lección 6 y de las láminas en el repositorio |
+| Zavaleta Gutierrez, Rodolfo Martin | — | Líder del equipo; redacción de los guiones; edición de los videos; plan del curso en el `README.md` |
+| Angulo Ramirez, Marcelo Martin | Lecciones 1, 2, 3, 5 y 6 | Redacción de los guiones; publicación de los videos en YouTube |
+| Cobades Zamora, Yhoshua Hebert | — | Redacción de los guiones; mejoras de audio de los videos; revisión técnica del código y de los guiones |
+| Rojas Ambicho, Nestor Daniel | Lección 4 | Redacción de los guiones; láminas (PPT); código de las lecciones |
+| Flores Martinez, Ricardo Andres | — | Publicación de la lección 5 en el repositorio |
+| Torres Juárez, Alisee Muriel | — | Publicación de la lección 6 y de las láminas en el repositorio |
 
 ### Proceso de trabajo
 
