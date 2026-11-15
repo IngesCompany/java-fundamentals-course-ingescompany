@@ -28,8 +28,8 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 | Recurso | Enlace |
 |---|---|
-| **Video en YouTube** | _(enlace pendiente)_ |
-| **Práctica en línea** | _(enlace pendiente)_ |
+| **Video en YouTube** | _https://youtu.be/6cKEwa0dOEk_ |
+| **Práctica en línea** | _https://onlinegdb.com/H9u9WePC7_ |
 | **Código inicial** | [starter-files/leccion-01/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/starter-files/leccion-01/Main.java) |
 | **Código terminado** | [completed-examples/leccion-01/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/completed-examples/leccion-01/Main.java) |
 | **Guion** | [scripts/leccion-01.md](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/scripts/leccion-01.md) |
@@ -43,8 +43,8 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 | Recurso | Enlace |
 |---|---|
-| **Video en YouTube** | _(enlace pendiente)_ |
-| **Práctica en línea** | _(enlace pendiente)_ |
+| **Video en YouTube** | _https://youtu.be/NSbMtqY0lEc_ |
+| **Práctica en línea** | _https://onlinegdb.com/CFUHBLZiN_ |
 | **Código inicial** | [starter-files/leccion-02/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/starter-files/leccion-02/Main.java) |
 | **Código terminado** | [completed-examples/leccion-02/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/completed-examples/leccion-02/Main.java) |
 | **Guion** | [scripts/leccion-02.md](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/scripts/leccion-02.md) |
@@ -58,8 +58,8 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 | Recurso | Enlace |
 |---|---|
-| **Video en YouTube** | _(enlace pendiente)_ |
-| **Práctica en línea** | _(enlace pendiente)_ |
+| **Video en YouTube** | _https://youtu.be/JU9Lb1U5n38_ |
+| **Práctica en línea** | _https://onlinegdb.com/phdGzRdN2_ |
 | **Código inicial** | [starter-files/leccion-03/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/starter-files/leccion-03/Main.java) |
 | **Código terminado** | [completed-examples/leccion-03/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/completed-examples/leccion-03/Main.java) |
 | **Guion** | [scripts/leccion-03.md](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/scripts/leccion-03.md) |
@@ -73,8 +73,8 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 | Recurso | Enlace |
 |---|---|
-| **Video en YouTube** | _(enlace pendiente)_ |
-| **Práctica en línea** | _(enlace pendiente)_ |
+| **Video en YouTube** | _https://youtu.be/C9vqU131FPM_ |
+| **Práctica en línea** | _https://onlinegdb.com/1eTZ6XXpB_ |
 | **Código inicial** | [starter-files/leccion-04/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/starter-files/leccion-04/Main.java) |
 | **Código terminado** | [completed-examples/leccion-04/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/completed-examples/leccion-04/Main.java) |
 | **Guion** | [scripts/leccion-04.md](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/scripts/leccion-04.md) |
@@ -88,8 +88,8 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 | Recurso | Enlace |
 |---|---|
-| **Video en YouTube** | _(enlace pendiente)_ |
-| **Práctica en línea** | _(enlace pendiente)_ |
+| **Video en YouTube** | _https://youtu.be/WaK2MnPff5w_ |
+| **Práctica en línea** | _https://onlinegdb.com/6CoYTwkhG_ |
 | **Código inicial** | [starter-files/leccion-05/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/starter-files/leccion-05/Main.java) |
 | **Código terminado** | [completed-examples/leccion-05/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/completed-examples/leccion-05/Main.java) |
 | **Guion** | [scripts/leccion-05.md](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/scripts/leccion-05.md) |
@@ -103,8 +103,8 @@ Este curso de **1 hora** introduce a estudiantes de secundaria a los fundamentos
 
 | Recurso | Enlace |
 |---|---|
-| **Video en YouTube** | _(enlace pendiente)_ |
-| **Práctica en línea** | _(enlace pendiente)_ |
+| **Video en YouTube** | _https://youtu.be/lFDvMO6YJsU_ |
+| **Práctica en línea** | _https://onlinegdb.com/9u-zh3r8On_ |
 | **Código inicial** | [starter-files/leccion-06/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/starter-files/leccion-06/Main.java) |
 | **Código terminado** | [completed-examples/leccion-06/Main.java](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/completed-examples/leccion-06/Main.java) |
 | **Guion** | [scripts/leccion-06.md](https://github.com/IngesCompany/java-fundamentals-course-ingescompany/blob/main/scripts/leccion-06.md) |
